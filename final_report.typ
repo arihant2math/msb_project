@@ -104,7 +104,7 @@ I would like to thank Alistair Keiller for his invaluable guidance pertaining to
 
 = Appendix
 
-All the data, analysis, and scripts in this experiment (including the source fort his paper) can be found at https://github.com/arihant2math/msb_final_project.
+All the data, analysis, and scripts in this experiment (including the source for this paper) can be found at https://github.com/arihant2math/msb_final_project.
 
 seaside.xlsx contains the analysis of the Index of Dispersion, as well as their actual values, which I will append in comma format:
 
